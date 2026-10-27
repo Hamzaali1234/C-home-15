@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# home 15\bin\Debug\net10.0\C# home 15.exe
+C:\Users\Admin\Desktop\C# home 15\bin\Debug\net10.0\C# home 15.deps.json
+C:\Users\Admin\Desktop\C# home 15\bin\Debug\net10.0\C# home 15.runtimeconfig.json
+C:\Users\Admin\Desktop\C# home 15\bin\Debug\net10.0\C# home 15.dll
+C:\Users\Admin\Desktop\C# home 15\bin\Debug\net10.0\C# home 15.pdb
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.dll
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\refint\C# home 15.dll
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.pdb
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\C# home 15.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# home 15\obj\Debug\net10.0\ref\C# home 15.dll
